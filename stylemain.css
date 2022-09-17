@@ -44,6 +44,11 @@ main{
     padding: 20px;
     text-align: justify;
 }
+@media only screen and (max-width: 860px){
+    main{
+        margin: 20px 20px;
+    }
+}
 .robotica{
     font-family: 'robotica';
     color: rgb(78, 61, 66);
